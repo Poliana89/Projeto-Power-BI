@@ -1,3 +1,7 @@
 # Projeto-Power-BI
 
-Dashboard Analítico de Vendas Globais
+
+Projeto Power BI: Dashboard Analítico de Vendas Globais
+
+
+
