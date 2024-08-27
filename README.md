@@ -5,7 +5,7 @@
 
 
 <h3> Objetivo </h3>
-O relatório  tem por objetivo responder algumas perguntas de negócios de um dataset de vendas globais. Nesse processo iremos utilizar o software da Microsoft  Power BI, para construir um dashboard e responder algumas perguntas a seguir.
+O relatório o objetivo de responder algumas perguntas de negócios do dataset vendas globais. Nesse processo iremos utilizar o software da Microsoft  Power BI, para construir um dashboard e responder algumas perguntas a seguir.
 
 <h3>Ferramenta Utilizada</h3>
 
