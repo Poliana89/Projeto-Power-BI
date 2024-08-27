@@ -90,7 +90,7 @@ Power BI, na versão desktop Versão: 2.132.908.0 64-bit (agosto de 2024).
 
 <li>Para responder à pergunta <b>qual o valor total vendido</b>, utilizei o gráfico do tipo CARTÃO, informando a coluna <b>Total_Vendas</b>, e fazendo a soma de todas as vendas, no conjunto de dados. </li>
 
-<li>Para responder à pergunta <b>quantas vendas foram realizadas por categoria de produtos</b>b>, utilizei o gráfico de pizza com a coluna <b>ID_Pedido</b>, realizando a contagem dos itens vendidos por categorias.</li>
+<li>Para responder à pergunta <b>quantas vendas foram realizadas por categoria de produtos</b>, utilizei o gráfico de pizza com a coluna <b>ID_Pedido</b>, realizando a contagem dos itens vendidos por categorias.</li>
 
 <li>Para responder à pergunta <b>quantas vendas foram realizadas por país, considerando a prioridade de entrega</b>, utilizei o gráfico de barras empilhadas, nesse gráfico visualizaremos a contagem de número de pedidos(vendas) por país e por prioridade de entrega.</li>
 
