@@ -10,9 +10,9 @@ insight valiosos para tomadas de decisão e acompanhamento gerencial.
 
 <h3>Ferramenta Utilizada</h3>
 
-Usaremos a ferramenta Power BI, na versão desktop Versão: 2.132.908.0 64-bit (agosto de 2024).
+Power BI, na versão desktop Versão: 2.132.908.0 64-bit (agosto de 2024).
 
-<h3>Perguntas de Negócio.</h3>
+<h3>Análise</h3>
 
     • Qual o valor total vendido?
     • Quantas vendas foram realizadas por categoria de produtos?
@@ -23,7 +23,7 @@ Usaremos a ferramenta Power BI, na versão desktop Versão: 2.132.908.0 64-bit (
   <h3>Transformando e Tratando o Conjunto de Dados de Vendas</h3>
 
 
- <b> Carregando a fonte de dados no Power BI– </b> A fonte de dados são dados fictícios na extesão  data.csv, com  as seguintes colunas: 
+ <b> Carregando a fonte de dados no Power BI– </b> A fonte de dados são dados fictícios na extensão  data.csv, com  as seguintes colunas: 
 
 <table>
   <tr>
@@ -84,7 +84,7 @@ Usaremos a ferramenta Power BI, na versão desktop Versão: 2.132.908.0 64-bit (
   </tr>
 </table>
 
- Ao importar o arquivo foi verificado que não teria necessidade de tratar os dados, limpá-los ou formatar, pois o arquivo já estava com os dados e colunas corretos.
+ Ao importar o arquivo foi verificado que não havia necessidade de tratar os dados, limpá-los ou formatar, pois o arquivo já estava com os dados e colunas corretos.
 
 <h3>Construção do Dashboard - Relatório Vendas </h3>
 
